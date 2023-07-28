@@ -6,6 +6,6 @@
 
 ![The Landscape](DJI_0011.jpg)
 
-,,,
+'''
 For CODE
-,,,
+'''
